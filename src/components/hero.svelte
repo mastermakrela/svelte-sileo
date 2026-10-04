@@ -1,6 +1,6 @@
 <script lang="ts">
 	import InstallCommand from './install-command.svelte';
-	import { sileo } from "$lib";
+	import { sileo } from "#lib";
 	import LaunchToast from "./utils/launch-toast.svelte";
 
 	function showExample() {

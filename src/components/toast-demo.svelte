@@ -1,6 +1,6 @@
 <script lang="ts">
-	import { sileo } from "$lib";
-	import { SILEO_POSITIONS, type SileoPosition } from "$lib/types";
+	import { sileo } from "#lib";
+	import { SILEO_POSITIONS, type SileoPosition } from "#lib/types.js";
 
 	import RocketIcon from "./icons/rocket-icon.svelte";
 	import PdfRecordToast from "./utils/pdf-record-toast.svelte";

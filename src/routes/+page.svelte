@@ -1,6 +1,6 @@
 <script lang="ts">
-    import { sileo } from "$lib";
-    import type { SileoPosition } from "$lib/types";
+    import { sileo } from "#lib";
+    import type { SileoPosition } from "#lib/types.js";
     import DocsReference from "../components/docs-reference.svelte";
     import Footer from "../components/footer.svelte";
     import Hero from "../components/hero.svelte";

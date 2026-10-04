@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { tokenize } from 'sugar-high';
+	import { tokenize } from 'sugar-high/core';
 	import type { Snippet } from 'svelte';
 
 	interface Props {

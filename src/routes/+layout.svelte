@@ -1,5 +1,5 @@
 <script lang="ts">
-    import { Toaster } from "$lib";
+    import { Toaster } from "#lib";
     import "./layout.css";
 
     let { children } = $props();
